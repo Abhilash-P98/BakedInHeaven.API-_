@@ -1,0 +1,15 @@
+D:\Training\BakedInHeaven.Services\bin\Debug\net5.0\BakedInHeaven.BusinessServices.deps.json
+D:\Training\BakedInHeaven.Services\bin\Debug\net5.0\BakedInHeaven.BusinessServices.dll
+D:\Training\BakedInHeaven.Services\bin\Debug\net5.0\ref\BakedInHeaven.BusinessServices.dll
+D:\Training\BakedInHeaven.Services\bin\Debug\net5.0\BakedInHeaven.BusinessServices.pdb
+D:\Training\BakedInHeaven.Services\obj\Debug\net5.0\BakedInHeaven.BusinessServices.csprojAssemblyReference.cache
+D:\Training\BakedInHeaven.Services\obj\Debug\net5.0\BakedInHeaven.BusinessServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\BakedInHeaven.Services\obj\Debug\net5.0\BakedInHeaven.BusinessServices.AssemblyInfoInputs.cache
+D:\Training\BakedInHeaven.Services\obj\Debug\net5.0\BakedInHeaven.BusinessServices.AssemblyInfo.cs
+D:\Training\BakedInHeaven.Services\obj\Debug\net5.0\BakedInHeaven.BusinessServices.csproj.CoreCompileInputs.cache
+D:\Training\BakedInHeaven.Services\obj\Debug\net5.0\BakedInHeaven.BusinessServices.dll
+D:\Training\BakedInHeaven.Services\obj\Debug\net5.0\ref\BakedInHeaven.BusinessServices.dll
+D:\Training\BakedInHeaven.Services\obj\Debug\net5.0\BakedInHeaven.BusinessServices.pdb
+D:\Training\BakedInHeaven.Services\bin\Debug\net5.0\BakedInHeaven.DataAccess.dll
+D:\Training\BakedInHeaven.Services\bin\Debug\net5.0\BakedInHeaven.DataAccess.pdb
+D:\Training\BakedInHeaven.Services\obj\Debug\net5.0\BakedInHeaven.BusinessServices.csproj.CopyComplete
